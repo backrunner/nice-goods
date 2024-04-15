@@ -1,8 +1,10 @@
 # Table of contents
 
-## 键盘<a href="#keyboard" id="keyboard"></a>
+* [Welcome](welcome.md)
 
-### 轴<a href="#keyboard/switches" id="keyboard/switches"></a>
+## 机械键盘
 
-* [BOX 草莓冰淇淋](keyboard/switches/box-strawberry-switch.md)
-* [Cheese 轴](keyboard/switches/cheese-switch.md)
+### 轴 <a href="#key-switches" id="key-switches"></a>
+
+* [BOX 草莓冰淇淋](key-switches/box-strawberry-switch.md)
+* [Cheese 轴](key-switches/cheese-switch.md)
