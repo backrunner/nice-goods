@@ -5,14 +5,14 @@ layout:
   description:
     visible: true
   tableOfContents:
-    visible: false
+    visible: true
   outline:
-    visible: false
+    visible: true
   pagination:
-    visible: false
+    visible: true
 ---
 
-# 空格好物
+# Welcome
 
 欢迎来到空格好物。
 
