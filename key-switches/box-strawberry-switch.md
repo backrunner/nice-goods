@@ -25,9 +25,11 @@ layout:
 
 总的来说，它的手感、性能和设计都十分出色，是键盘发烧友们值得关注的产品。🍓✨
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption><p>参数信息</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>参数信息</p></figcaption></figure>
+
 
 =====
+
 
 From 空格：
 
