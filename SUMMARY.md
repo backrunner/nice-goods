@@ -2,7 +2,7 @@
 
 * [Welcome](README.md)
 
-## 服务器 IDC<a href="#idc" id="idc"></a>
+## 服务器 - IDC<a href="#idc" id="idc"></a>
 
 * [Apernet](idc/apernet.md)
 * [VMISS](idc/vmiss.md)
