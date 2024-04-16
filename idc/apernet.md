@@ -27,7 +27,7 @@
 推荐这款Hong Kong Retail VPS (Elite)，主要看中它的定向优化过的中国线路以及低延迟和稳定性表现。虽然在国际互联和部分IP解锁方面存在一些不足，但总体而言，它为用户提供了良好的本地及部分国际的使用体验。
 
 
-Link: [apernet.io] (https://new.apernet.io/store/hong-kong-retail-vps-elite)
+Link: [apernet.io](https://new.apernet.io/store/hong-kong-retail-vps-elite)
 
 
 =====
