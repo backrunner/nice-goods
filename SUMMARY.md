@@ -19,4 +19,14 @@
 ## 茶叶
 
 * [狮峰牌龙井润字](tea/shi-feng-long-jing.md)
+* [王光熙松萝茶](cha-ye/wang-guang-xi-song-luo-cha.md)
 * [张一元 茉莉玉芽](cha-ye/zhang-yi-yuan-mo-li-yu-ya.md)
+
+## 软件 - AI
+
+* [Cursor](ruan-jian-ai/cursor.md)
+* [Upscayl](ruan-jian-ai/upscayl.md)
+
+## 耳机
+
+* [Softears Studio 4](er-ji/softears-studio-4.md)

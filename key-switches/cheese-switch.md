@@ -27,9 +27,9 @@ layout:
 * 底壳材料：pa-2
 * 弹簧：22mm 长弹簧
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>轴体实拍</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>轴体实拍</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>压力 - 行程</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>压力 - 行程</p></figcaption></figure>
 
 \
 “Cheese 轴”之所以值得推荐，是因为它在键盘爱好者中享有很高的评价。它的打字音悦耳，手感舒适。轴体较软，触发压力适中，既能提供清晰的反馈，也能减少打字疲劳。总行程和触发行程的设计恰到好处，符合大多数打字需求。它的价格也非常合理，性价比高。无论你是打字迷还是键盘发烧友，Cheese 轴凭借其线性触觉、优秀的做工与亲民的价格，都是一款不可多得的选择。🧀
